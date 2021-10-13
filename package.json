@@ -1,7 +1,7 @@
 {
-  "name": "vanilla",
+  "name": "get-youtube-video-id",
   "version": "1.0.0",
-  "description": "JavaScript example starter project",
+  "description": "Get Youtube video ID from url",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
